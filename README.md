@@ -5,3 +5,5 @@ To install gspread type the commands:
 If you don't have pip you can type:
 ```sudo apt-get install python3-setuptools```
 ```sudo easy_install3 pip```
+
+Based in https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html tutorial.
